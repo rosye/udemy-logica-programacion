@@ -1,0 +1,40 @@
+package estruturaswicth;
+
+public class EstruturaSwicth {
+
+    public static void main(String[] args) {
+
+        char nota = '9';
+
+        switch (nota) {
+            case '5':
+            System.out.println ("Suficiente");
+            break;
+                
+            case '6':
+            System.out.println ("Bom");
+            break;
+            
+            case '7':
+            System.out.println ("Muito bom");
+            break;
+            
+            case '8':
+            System.out.println ("Ótimo");
+            break;
+            
+            case '9':
+            System.out.println ("Excelente");
+            break;
+            
+            default:
+                System.out.println ("Reprovado");
+                
+        }
+    }
+    
+}
+
+run:
+Excelente
+CONSTRUÍDO COM SUCESSO (tempo total: 0 segundos)
