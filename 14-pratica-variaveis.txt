@@ -12,14 +12,14 @@ public class PraticaVariaveis {
         n3=n2*n3;
         n2=n3/n1;
         
-       System.out.println("o valor de n1 È = " + n1);
-       System.out.println("o valor de n2 È = " + n2);
-       System.out.println("o valor de n3 È = " + n3);
+       System.out.println("o valor de n1 √© = " + n1);
+       System.out.println("o valor de n2 √© = " + n2);
+       System.out.println("o valor de n3 √© = " + n3);
                 
     }
 
 run:
-o valor de n1 È = 5
-o valor de n2 È = 1
-o valor de n3 È = 6
-CONSTRUÕDO COM SUCESSO (tempo total: 0 segundos)
+o valor de n1 √© = 5
+o valor de n2 √© = 1
+o valor de n3 √© = 6
+CONSTRU√çDO COM SUCESSO (tempo total: 0 segundos)
