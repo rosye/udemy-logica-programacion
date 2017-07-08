@@ -20,7 +20,7 @@ public class EstruturaSwicth {
             break;
             
             case '8':
-            System.out.println ("”timo");
+            System.out.println ("√ìtimo");
             break;
             
             case '9':
@@ -37,4 +37,4 @@ public class EstruturaSwicth {
 
 run:
 Excelente
-CONSTRUÕDO COM SUCESSO (tempo total: 0 segundos)
+CONSTRU√çDO COM SUCESSO (tempo total: 0 segundos)
