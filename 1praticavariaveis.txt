@@ -1,0 +1,25 @@
+package praticavariaveis;
+
+public class PraticaVariaveis {
+
+    public static void main(String[] args) {
+        int n1=2,n2=5,n3=0;
+        
+        
+        n3=n2-n1;
+        n2=2;
+        n1=n3+n2;
+        n3=n2*n3;
+        n2=n3/n1;
+        
+       System.out.println("o valor de n1 é = " + n1);
+       System.out.println("o valor de n2 é = " + n2);
+       System.out.println("o valor de n3 é = " + n3);
+                
+    }
+
+run:
+o valor de n1 é = 5
+o valor de n2 é = 1
+o valor de n3 é = 6
+CONSTRUÍDO COM SUCESSO (tempo total: 0 segundos)
