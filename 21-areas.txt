@@ -1,0 +1,30 @@
+
+package areacirculo;
+
+
+public class AreaCirculo {
+
+   
+    public static void main(String[] args) {
+
+        int radio =4;
+        double pi=3.14;
+        int lado=4;
+        int base=5;
+        
+        double areac= radio * radio * pi;
+        int areaq= lado * lado;
+        int arear= lado*base;
+        
+        System.out.println ("area circulo = " +areac);  
+        System.out.println ("area quadrado = " +areaq);
+        System.out.println ("area retangulo = " +arear);
+    }
+    
+}
+
+run:
+area circulo = 50.24
+area quadrado = 16
+area retangulo = 20
+CONSTRUÍDO COM SUCESSO (tempo total: 0 segundos)
