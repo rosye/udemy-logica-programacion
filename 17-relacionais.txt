@@ -25,4 +25,4 @@ a>b =false
 a<b =true
 b>=a =true
 b<=a =false
-CONSTRUÍDO COM SUCESSO (tempo total: 0 segundos)
+CONSTRUÃDO COM SUCESSO (tempo total: 0 segundos)
