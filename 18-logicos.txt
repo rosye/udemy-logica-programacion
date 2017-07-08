@@ -20,4 +20,4 @@ run:
 v && f =false
 v || f =true
 !(v&&f)=true
-CONSTRUÕDO COM SUCESSO (tempo total: 0 segundos)
+CONSTRU√çDO COM SUCESSO (tempo total: 0 segundos)
